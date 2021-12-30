@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejeweled Blitz", "Bejeweled Blitz\Bejeweled Blitz.csproj", "{A453771B-162E-4003-A66C-23B80E8ED98C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejeweled.Test", "Bejeweled.Test\Bejeweled.Test.csproj", "{279128B6-EDEF-4C9B-9678-3695EC17F9EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A453771B-162E-4003-A66C-23B80E8ED98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A453771B-162E-4003-A66C-23B80E8ED98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A453771B-162E-4003-A66C-23B80E8ED98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A453771B-162E-4003-A66C-23B80E8ED98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279128B6-EDEF-4C9B-9678-3695EC17F9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279128B6-EDEF-4C9B-9678-3695EC17F9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279128B6-EDEF-4C9B-9678-3695EC17F9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279128B6-EDEF-4C9B-9678-3695EC17F9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09CE9ECC-30E8-40A1-B1C5-3C40DB632988}
+	EndGlobalSection
+EndGlobal
